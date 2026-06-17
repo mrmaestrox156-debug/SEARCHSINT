@@ -22,5 +22,5 @@ Kali Linux:
 $ sudo apt update && sudo apt upgrade -y
 $ sudo apt install git python3 -y
 $ git clone [https://github.com/mrmaestrox156-debug/SEARCHSINT.git](https://github.com/mrmaestrox156-debug/SEARCHSINT.git)
-$ cd SEARCHSINT
+$ cd SEARCH-SINT
 $ python3 sint.py
